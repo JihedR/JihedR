@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, my name is Jihed.
+# 3D Modeler and a computer engineering student.
 
+- I'm currently working on 3D modeling projects.
 <!--
 **JihedR/JihedR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
