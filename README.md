@@ -20,7 +20,7 @@ Computer engineering student with a passion for creating 3D stuff on Blender.
 ## Learning
 - Advanced 3D modeling techniques
 - Shading, texturing, lightning...
-- More Programming.. (I hate it)
+- More Programming..
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/jihed-ramedi-bb67a727b/
