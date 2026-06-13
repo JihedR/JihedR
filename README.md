@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jihed 👋</h1>
-<h3 align="center">Cybersecurity Engineer in training — Reverse Engineering, Malware Analysis & Offensive Security</h3>
+<h3 align="center">Cybersecurity Engineer in training | Reverse Engineering, Malware Analysis & Offensive Security</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jihed-ramedi-bb67a727b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
