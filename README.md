@@ -23,8 +23,11 @@ I'm a 3rd-year IT Engineering student specializing in **Cybersecurity & Cloud**.
 **Security:** Reverse Engineering · Malware Analysis · Burp Suite · Web App Pentesting · Network Security (mTLS, PKI/OpenSSL)
 
 **Programming:** Python · C++ · PHP (Symfony) · Java
+
 **Tools/Infra:** Ghidra · x64dbg · Flare VM · REMnux · Kali Linux · pfSense · Docker
+
 **Web/Backend:** Next.js · Node.js · Symfony/Doctrine
+
 **Version Control:** Git, GitHub
 
 ---
