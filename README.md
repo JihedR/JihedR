@@ -4,14 +4,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jihed-ramedi-bb67a727b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://yeswehack.com"><img src="https://img.shields.io/badge/YesWeHack-Bug%20Hunter-1E1E1E?style=for-the-badge" alt="YesWeHack"/></a>
 </p>
 
 ---
 
 ### About Me
 
-I'm a 4th-year IT Engineering student at **ESPRIT** working as a **Web Penetration Tester at No Breach**, where I test web applications for real clients. Outside work I hunt bugs on **YesWeHack** and play CTFs with **Securinets**.
+I’m a 4th-year IT Engineering student at ESPRIT. I hunt bugs on YesWeHack, play CTFs with Securinets, and I’m building tools for AI security research.
 
 - 🎯 Currently: web app pentesting and building an AI recon tool
 - 🐛 Bug hunter on YesWeHack (first valid bounty: information disclosure, CWE-215)
